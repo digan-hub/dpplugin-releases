@@ -4,7 +4,7 @@
 			"name": "sNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.snightmare.SpoonNightmarePlugin"],
 			"version": "1.21",
-			"path": "https://github.com/digan-hub/dpplugin-releases/blob/main/sNightmare.jar",
+			"path": "https://github.com/digan-hub/dpplugin-releases/raw/main/sNightmare.jar",
 			"hash": "b359cbc1d29c19057bc0c8e20a4fb9a8cfbbae9f9400ea3b9409c53d7624d48d",
 			"description": "All-in-one plugin for the Nightmare of Ashihama"
 		},
@@ -12,7 +12,7 @@
 			"name": "sTobSounds.jar",
 			"plugins": ["net.runelite.client.plugins.tobsounds.TobSoundsPlugin"],
 			"version": "2.00",
-			"path": "https://github.com/digan-hub/dpplugin-releases/blob/main/sTobSounds.jar",
+			"path": "https://github.com/digan-hub/dpplugin-releases/raw/main/sTobSounds.jar",
 			"hash": "e8acc8e0212a9f818e989f7d082650710a6f3b57b54c6f165e65b2c900d33e56",
 			"description": "Sounds for various ToB events"
 		}
@@ -20,7 +20,7 @@
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
 		    	"version": "1.06",
-		    	"path": "https://github.com/digan-hub/dpplugin-releases/blob/main/SpoonTob.jar",
+		    	"path": "https://github.com/digan-hub/dpplugin-releases/raw/main/SpoonTob.jar",
 		    	"hash": "711ae8b2a98ed26c7abb4895065a945f2f2c31fc15dc2f153460fb46ac8fffe4",
 		    	"description": "All in one Theatre of Blood plugin."
         	}
