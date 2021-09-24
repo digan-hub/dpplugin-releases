@@ -1,6 +1,6 @@
 {
 	"artifacts": [
-				{
+		{
 			"name": "sNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.snightmare.SpoonNightmarePlugin"],
 			"version": "1.21",
@@ -23,6 +23,6 @@
 		    	"path": "https://github.com/digan-hub/dpplugin-releases/raw/main/SpoonTob.jar",
 		    	"hash": "711ae8b2a98ed26c7abb4895065a945f2f2c31fc15dc2f153460fb46ac8fffe4",
 		    	"description": "All in one Theatre of Blood plugin."
-        	}
+        }
 	]
 }
