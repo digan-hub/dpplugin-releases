@@ -15,7 +15,7 @@
 			"path": "https://github.com/digan-hub/dpplugin-releases/raw/main/sTobSounds.jar",
 			"hash": "e8acc8e0212a9f818e989f7d082650710a6f3b57b54c6f165e65b2c900d33e56",
 			"description": "Sounds for various ToB events"
-		}
+		},
 		{
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
